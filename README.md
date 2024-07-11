@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @weston66
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning python and ML tools
+- 👀 I’m interested in engineering
+- 🌱 I’m currently learning literally everything
 - 📫 How to reach me westonhyman@gmail.com
 
 <!---

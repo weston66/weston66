@@ -1,12 +1,13 @@
 # Hey, I'm Weston
 
-Technology consultant at Protiviti focused on ERP implementation, enterprise integrations, and operations automation — building integrations, pipelines, and internal tooling across manufacturing, aerospace, and Fortune 100 environments.
+Technology consultant at Protiviti focused on ERP implementation, enterprise integrations, and operations automation. Building integrations, pipelines, and internal tooling.
 
 ---
 
 ## What I Work With
 
 **ERP & Platform:** D365FO, Power Apps, Power Automate, Power BI, Dataverse, Azure DevOps, Logic Apps
+**AI Agents:** Claude (Literally just all Claude)
 **Development:** Python, SQL, X++, R
 **Cloud:** Azure, AWS, GCC High
 **Practices:** API Integration, ETL/ELT, Business Event Automation, Agile/Scrum, ITAR-controlled environments
@@ -31,7 +32,7 @@ Automated BOM revision monitoring that diffs added, removed, and modified compon
 
 ## Certifications
 
-MB-310 D365FO Functional Consultant · DP-600 Fabric Analytics Engineer · AI-900 Azure AI Fundamentals · AZ-900 Azure Fundamentals · CSM · AWS Cloud Practitioner
+Claude Certified Architect – Foundations · MB-310 D365FO Functional Consultant · DP-600 Fabric Analytics Engineer · AI-900 Azure AI Fundamentals · AZ-900 Azure Fundamentals · CSM · AWS Cloud Practitioner
 
 ---
 

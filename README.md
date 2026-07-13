@@ -10,6 +10,7 @@ Technology consultant at Protiviti focused on ERP implementation, enterprise int
 - **Development:** Python, SQL, X++, R
 - **Cloud:** Azure, AWS, GCC High
 - **Practices:** API Integration, ETL/ELT, Business Event Automation, Agile/Scrum, ITAR-controlled environments
+- **AI & Agents:** Claude, agentic workflows
 
 ---
 
@@ -31,7 +32,7 @@ Study guide, real post-exam gap analysis, and a Claude seed prompt for the Claud
 
 ## Certifications
 
-MB-310 D365FO Functional Consultant · DP-600 Fabric Analytics Engineer · AI-900 Azure AI Fundamentals · AZ-900 Azure Fundamentals · CSM · AWS Cloud Practitioner
+Claude Certified Architect – Foundations · MB-310 D365FO Functional Consultant · DP-600 Fabric Analytics Engineer · AI-900 Azure AI Fundamentals · AZ-900 Azure Fundamentals · CSM · AWS Cloud Practitioner
 
 ---
 

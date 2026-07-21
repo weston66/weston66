@@ -1,6 +1,6 @@
 # Hey, I'm Weston
 
-Technology consultant at Protiviti focused on ERP implementation, enterprise integrations, and operations automation — building integrations, pipelines, and internal tooling across manufacturing, aerospace, and Fortune 100 environments.
+Technology consultant focused on ERP implementation, enterprise integrations, and operations automation — building integrations, pipelines, and internal tooling across manufacturing, aerospace, and Fortune 100 environments.
 
 ---
 
